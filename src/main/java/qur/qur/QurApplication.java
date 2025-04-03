@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 int x=100;
+@configuration
 
 @SpringBootApplication
 public class QurApplication {
